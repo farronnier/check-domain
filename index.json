@@ -4,7 +4,7 @@
         "subdomain.example.com",
         "another-domain.com",
         "localhost",
-        "aaaaaaaa"
+      
     ],
     "license_info": {
         "type": "standard",
