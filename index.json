@@ -3,7 +3,8 @@
         "example.com",
         "subdomain.example.com",
         "another-domain.com",
-        "localhost"
+        "localhost",
+        "aaaaaaaa"
     ],
     "license_info": {
         "type": "standard",
