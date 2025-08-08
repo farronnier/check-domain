@@ -1,3 +1,12 @@
-[
-    "localhost"
-]
+{
+    "authorized_domains": [
+        "example.com",
+        "subdomain.example.com",
+        "another-domain.com"
+    ],
+    "license_info": {
+        "type": "standard",
+        "expiry": "2024-12-31"
+    },
+    "last_updated": "2023-11-01"
+}
