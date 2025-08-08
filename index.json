@@ -2,7 +2,8 @@
     "authorized_domains": [
         "example.com",
         "subdomain.example.com",
-        "another-domain.com"
+        "another-domain.com",
+        "localhost"
     ],
     "license_info": {
         "type": "standard",
